@@ -1,4 +1,4 @@
-# weather_forecasting_AUS
+# weather_forecasting_aus
 
 ### Dataset Access
 
